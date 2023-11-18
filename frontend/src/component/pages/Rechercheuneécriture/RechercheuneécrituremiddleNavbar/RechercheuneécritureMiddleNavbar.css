@@ -1,0 +1,48 @@
+
+.Main-Table__MiddleNavbar{
+display: flex;
+gap: 11.63px;
+align-items: center;
+margin-left: 3%;
+margin-top: .5%;
+height: 8vh;
+border-radius: 69.783px;
+border: 1.163px solid rgba(126, 126, 126, 0.25);
+background: rgba(126,126,126,0.25);
+width: 40%;
+}
+
+.Main-MiddleNavbar__Arrow{
+display: flex;
+padding: 0px 1.5%;
+align-items: center;
+}
+
+.MiddleNavbar__Container{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+}
+
+.Table-MiddleNavbar__ForwardContainer{
+    width: 24px;
+height: 24px;
+}
+
+
+.MiddleNavbarInnerText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+
+.MiddleNavbarSecond__container{
+display: flex;
+align-items: flex-start;
+
+}

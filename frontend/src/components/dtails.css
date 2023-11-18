@@ -1,0 +1,38 @@
+.Popup__information-1-icon1 {
+  
+  width: 8vw;
+  height: 12vh;
+  object-fit: cover;
+    border: none; 
+     margin: 0;
+  
+  margin-left: 22px;
+}
+.Popup__en-cliquant-sur {
+  
+color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-right: 2%;
+}
+.Popup__dtails {
+  position: relative;
+  border-radius: 80px;
+  background-color: #ef9816;
+  width: 50vw;
+  height: 15vh;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+  display: flex;
+
+flex-shrink: 0;
+text-align: center;
+align-items: center;
+justify-content: space-between;
+}

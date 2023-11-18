@@ -1,0 +1,198 @@
+/* Apply styles to the entire screen */
+.main__whole__login__container {
+    align-items: center;
+    background-color: #004aad; /* Blue background for the whole screen */
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the login container */
+  .login-container {
+    align-items: center;
+    background-color: #fff; /* White background for the login container */
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    width: 600px;
+  }
+  
+.login-container__topHeading{
+    display: flex;
+}
+.login-container__topHeading>svg{
+    width: 27.646px;
+height: 28.729px;
+flex-shrink: 0;
+}
+
+.TopLogoImageMain{
+  height: 323px;
+}
+
+.login-container__topHeading__rightSide{
+    margin-left: 20px;
+}
+
+  .login-container__text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    position: relative; /* Add relative positioning to the container */
+  }
+  
+  .login-container__text__line {
+    width: 110px;
+    height: 1px;
+    background: #004AAD;
+  }
+  
+  .login-container__text__container {
+    color: #004AAD;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40.037px; /* 166.822% */
+    letter-spacing: 0.125px;
+  }
+  
+
+
+  .inner__login-container{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 16.691px;
+  }
+
+
+  
+  /* Style the input wrapper */
+  .input-wrapper {
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    display: flex;
+    margin-bottom: 15px;
+    padding: 8px;
+    width: 535px;
+    height: 43px;
+  }
+
+
+.input-wrapper__checkbox{
+text-align: left;
+display: flex;
+width: 24.022px;
+height: 24.022px;
+}
+.keepMeLoggedIn{
+    color: #A7B0EB;
+font-family: Poppins;
+font-size: 20.019px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+  
+  .input-wrapper__input {
+    color: #004aad;
+    font-family: Poppins;
+    font-size: 21.353px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 100%;
+  }
+  
+  .input-wrapper__input::placeholder {
+    color: #004aad;
+    font-family: Poppins;
+    font-size: 21.353px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 100%;
+  }
+
+  /* Style the input fields */
+  input {
+    border: none;
+    outline: none;
+    padding: 8px;
+    
+  }
+  
+  /* Style the login button */
+  .login-button {
+    background: #fe7a72;
+    border-radius: 50px;
+    fill: #fe7a72;
+    filter: drop-shadow(0px 10.676580429077148px 53.38290023803711px rgba(0, 0, 0, 0.05));
+    height: 68.082px;
+    width: 535.257px;
+  }
+  
+  .login-button:hover {
+    background-color: #003399; /* Darker blue on hover */
+  }
+  
+  .login-button__text {
+    color: #fff;
+    font-family: Poppins;
+    font-size: 24.022px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+  
+  /* Style the checkbox */
+  .input-wrapper__checkbox {
+    height: 24.022px;
+    width: 24.022px;
+    border: 1.335px solid #004aad;
+    border-radius: 4.004px;
+    box-shadow: 0px 10.67658px 53.3829px 0px rgba(0, 0, 0, 0.05);
+  }
+  
+  /* Style the label for the checkbox */
+  label {
+    font-family: Poppins;
+    font-size: 21.353px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 10px;
+  }
+  
+
+  .input-wrapper__whole{
+    display: flex;
+    
+  }
+  .Linked {
+    display: flex;
+    justify-content: center; /* Horizontally center the content */
+    align-items: center; /* Vertically center the content */
+    height: 100%; /* Optionally set a height to center vertically within the parent container */
+    margin-top: 46px;
+  }
+  .Link__forgotPassword{
+    color: #ADB5EC;
+font-family: Poppins;
+font-size: 21.353px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: -0.141px;
+
+  }

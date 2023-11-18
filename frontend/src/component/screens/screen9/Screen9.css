@@ -1,0 +1,89 @@
+.main__Screen9{
+    
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 120vh; /* Set the height of the container to the viewport height for centering */
+}
+
+
+
+.screen9__topNavbar {
+display: flex;
+height: 112px;
+padding: 0px 115px 0px 2px;
+justify-content: flex-end;
+align-items: center;
+gap: 296px;
+flex-shrink: 0;
+align-self: stretch;
+width: 98vw;
+}
+
+.screen9__topHeading {
+  display: flex;
+  
+}
+.screen9__topHeading > svg {
+  width: 27.646px;
+  height: 28.729px;
+  flex-shrink: 0;
+}
+
+.screen9__topHeading__rightSide {
+  margin-left: 20px;
+}
+
+.screen9__top__Button > ul {
+  list-style: none;
+  display: flex;
+  padding: 1.406px;
+  align-items: flex-start;
+  gap: 5.763px;
+  margin-right: 0;
+}
+
+.screen9__top__Button__listing {
+  display: flex;
+  padding: 14.406px;
+  align-items: flex-start;
+  gap: 2.763px;
+  border-radius: 40.619px;
+  border: 1px solid #004aad;
+  background: rgba(0, 74, 173, 0.3);
+}
+
+
+.screen9__top__Button__listing__svg{
+  display: flex;
+  padding: 7.406px;
+  align-items: flex-start;
+}
+
+.list__innerText {
+  color: #004aad;
+  font-family: Poppins;
+  font-size: 15.467px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+
+.Screen9__CenterHeading{
+text-align: center;
+justify-content: center;
+align-items: center;
+margin-top: 10%;
+
+}
+
+.Screen9Heading{
+  color: rgba(0, 0, 0, 0.10);
+font-family: Poppins;
+font-size: 96px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}

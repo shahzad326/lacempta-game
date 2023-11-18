@@ -1,0 +1,159 @@
+.Navbar__pageDaccuel_container {  
+  background-color: #fafafa;
+  
+  width: 100vw;
+  height: 10vh;
+  
+}
+
+.Navbar__pageDaccuel-InnerContainer {
+  display: flex;
+height: 10vh; /* Adjust the percentage to your preference */
+gap: 18%; /* Adjust the percentage to your preference */
+padding: 0% 5.25% 0% 1%;
+justify-content: flex-end;
+align-items: center;
+flex-shrink: 0;
+align-self: stretch;  
+margin-right: 4%;
+}
+
+.pencil-1-icon {
+  position: relative;
+width: 100%; /* Adjust the percentage to your preference */
+height: 100%; /* Match the percentage to the width for a square shape */
+}
+
+
+.pageDaccuel-TopImage
+{
+  
+  width: full; /* Adjust the percentage to your preference */
+height: 5vh;
+}
+
+.pageDaccuel-frame-group,
+.pageDaccuel-frame-wrapper {
+  display: flex;
+  flex-direction: row;
+  
+  justify-content: center;
+  
+}
+
+
+.pageDaccuel-frame-container__container,
+.pageDaccuel-frame-div__container,
+.pageDaccuel-frame-wrapper1__container {
+ display: flex;
+padding: 14.406px;
+flex-direction: column;
+align-items: flex-start;
+gap: 5px;
+border-radius: 40.619px;
+border: 1px solid #004AAD;
+background: rgba(0, 74, 173, 0.30); 
+}
+
+.pageDaccuel-pencil-1-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 6.77px;
+  cursor: pointer;
+}
+
+.pageDaccuel-TopImage,
+.pageDaccuel-pencil-1-icon {
+  width: 468.01px;
+  height: 45.85px;
+  
+}
+.pageDaccuel-pencil-1-icon {
+  width: 17.6px;
+  height: 17.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.pageDaccuel-prise-de-note{
+    color: #004AAD;
+text-align: center;
+font-family: Poppins;
+font-size: 15.467px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+@media (max-width: 1215px) {
+  .Navbar__pageDaccuel-InnerContainer {
+gap: 10.2%; /* Adjust the percentage to your preference */
+padding: 0% 2.25% 0% 1%;
+width: 90vw;
+margin-left: 5%;
+}
+
+.pageDaccuel-frame-wrapper1__container {
+padding: 12.406px;
+gap: 1px;
+width: 130px;
+}
+.pageDaccuel-frame-container__container,
+.pageDaccuel-frame-div__container{
+  padding: 12.406px;
+gap: 1px;
+width: 150px;
+}
+
+.pageDaccuel-TopImage,
+.pageDaccuel-pencil-1-icon {
+  width: 368.01px;
+  height: 45.85px;
+  
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1115px) {
+  .Navbar__pageDaccuel-InnerContainer {
+gap: 1.2%; /* Adjust the percentage to your preference */
+padding: 0% 4.25% 0% 1%;
+width: 90vw;
+margin-left: 5%;
+}
+
+.pageDaccuel-frame-wrapper1__container {
+padding: 12.406px;
+gap: 1px;
+width: 130px;
+}
+.pageDaccuel-frame-container__container,
+.pageDaccuel-frame-div__container{
+  padding: 12.406px;
+gap: 1px;
+width: 150px;
+}
+
+.pageDaccuel-TopImage,
+.pageDaccuel-pencil-1-icon {
+  width: 368.01px;
+  height: 45.85px;
+  
+}
+
+}
+
+
+

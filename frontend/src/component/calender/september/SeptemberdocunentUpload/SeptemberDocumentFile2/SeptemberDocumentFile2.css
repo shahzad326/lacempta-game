@@ -1,0 +1,189 @@
+.Table__topNavbar {
+  display: flex;
+height: 112px;
+padding: 0px 115px 0px 2px;
+justify-content: flex-end;
+align-items: center;
+gap: 296px;
+width: 98vw;
+flex-shrink: 0;
+align-self: stretch;
+}
+
+.Table__topHeading {
+  display: flex;
+}
+.Table__topHeading > svg {
+  width: 27.646px;
+  height: 28.729px;
+  flex-shrink: 0;
+}
+
+.Table__topHeading__rightSide {
+  margin-left: 20px;
+}
+
+.Table__top__Button > ul {
+  list-style: none;
+  display: flex;
+  padding: 14.406px;
+  align-items: flex-start;
+  gap: 5.763px;
+  margin-right: 22px;
+}
+
+.Table__top__Button__listing {
+  display: flex;
+  padding: 14.406px;
+  align-items: flex-start;
+  gap: 5.763px;
+  border-radius: 40.619px;
+  border: 1px solid #004aad;
+  background: rgba(0, 74, 173, 0.3);
+}
+
+.list__innerText {
+  color: #004aad;
+  font-family: Poppins;
+  font-size: 15.467px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.Table__MiddleNavbar__tableActionPage{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+margin-left: 3%;
+margin-top: 2%;
+}
+
+.MiddleNavbar__MidText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+
+.MiddleNavbar__LastText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+.MiddleNavbar__Arrow{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+}
+
+.MiddleNavbar__Container__TableActionPage{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+
+}
+
+.MiddleNavbar__HomeContainer__TableActionPage{
+    display: flex;
+    align-items: center;
+}
+
+.MiddleNavbar__ForwardContainer__Page{
+display: flex;
+
+padding: 10px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+
+}
+
+
+.MiddleNavbarInnerText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+
+.MiddleNavbarSecond__container{
+display: flex;
+padding: 10px;
+align-items: flex-start;
+
+gap: 10px;}
+
+
+.MiddleNavbar__InnerForwardArrow{
+    margin-top: 20px;
+}
+
+.TableActionPage__Footer__page9{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  display: flex;
+  margin-left: 2%;
+  gap: 30px;
+}
+
+
+.Januavary__FileSecond__Container{
+  margin-left: 18%;
+  margin-top: 3%;
+  display: inline-flex;
+padding: 10px;
+align-items: flex-start;
+gap: 100px;
+}
+
+.TableActionPAge9__InnerCalenderText{
+  color: #000;
+font-family: Inter;
+font-size: 18.695px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.TableActionPage9__ContainerFirst{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 9.348px;
+
+}
+
+.TableActionPage9__Inner{
+  width: 180.41px;
+height: 180.41px;
+background-color: rgba(30, 63, 183, 0.15);
+border-radius: 50%;
+}
+
+.TableActionPage9__Calender{
+  
+text-align: center;
+align-items: center;
+}
+
+.InnerImage__TableActionPage9{
+  position: absolute;
+  width: 140.563px;
+height: 140.563px;
+margin-top: 20px;
+margin-left: 20px;
+text-align: center;
+}

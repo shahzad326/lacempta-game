@@ -1,0 +1,302 @@
+.icon-park-solidclose-one3 {
+  position: relative;
+  width: 51.5px;
+  height: 51.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.consultation-dune-balance-parent {
+  align-self: stretch;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+.consultation-dune-balance-inner {
+  border-bottom: 0.757px solid rgba(126, 126, 126, 0.25);
+background: #73D896;
+  box-sizing: border-box;
+  width: 35vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 15.136268615722656px 30.272537231445312px;
+}
+.type-de-balance {
+  color: #004AAD;
+font-family: Poppins;
+font-size: 18.164px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.frame-child1 {
+  position: relative;
+  border-radius: 2.43px;
+  background-color: var(--color-white);
+  border: 0.8px solid var(--color-royalblue-100);
+  box-sizing: border-box;
+  width: 24.07px;
+  height: 24.73px;
+}
+.rectangle-wrapper1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 4.054357528686523px;
+}
+.lettres {
+  color: #000;
+font-family: Poppins;
+font-size: 21.191px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.frame-parent7,
+.instance-parent4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-parent7 {
+  align-items: center;
+  gap: 12.16px;
+}
+.instance-parent4 {
+  align-items: flex-start;
+  display: flex;
+
+gap: 44.598px;
+}
+.frame-wrapper12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 15.136268615722656px 0;
+}
+.frame-wrapper10,
+.frame-wrapper11,
+.type-de-balance-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper11 {
+  flex-direction: row;
+  padding: 7.568134307861328px 0;
+
+}
+.frame-wrapper10,
+.type-de-balance-parent {
+  align-self: stretch;
+  flex-direction: column;
+}
+
+.type-de-balance-parent{
+
+padding: 1px;
+gap: 1px;
+align-self: stretch;
+border-radius: 30px;
+background: rgba(173, 181, 236, 0.05);
+}
+.frame-wrapper10 {
+  border-radius: 34.057px;
+background: #FFF;
+  align-items: center;
+  
+}
+.priode {
+  position: relative;
+  font-weight: 600;
+}
+.solarcalendar-line-duotone-icon {
+  position: relative;
+  width: 34.67px;
+  height: 34.67px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ddmmaaaa {
+  position: relative;
+}
+.solarcalendar-line-duotone-parent {
+  align-self: stretch;
+  border-radius: var(--br-40xl-3);
+  border: 2px solid var(--color-royalblue-100);
+  box-sizing: border-box;
+  width: 12vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 19.77px;
+}
+.frame-wrapper15,
+.solarcalendar-line-duotone-group {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+}
+.frame-wrapper15 {
+  height: 12vh;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 7.568134307861328px;
+}
+.solarcalendar-line-duotone-group {
+  align-self: stretch;
+  border-radius: var(--br-40xl-3);
+  border: 2px solid var(--color-royalblue-100);
+  width: 15vw;
+  align-items: center;
+  justify-content: center;
+  gap: 19.77px;
+}
+.frame-parent11,
+.frame-wrapper16 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper16 {
+  height: 74.21px;
+  padding: 0 7.568134307861328px;
+  box-sizing: border-box;
+}
+.frame-parent11 {
+  align-self: stretch;
+  padding: 7.568134307861328px 0;
+  gap: 4.63px;
+  font-size: 19.77px;
+}
+.frame-parent6,
+.priode-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.priode-parent {
+  display: flex;
+padding: 2px;
+flex-direction: column;
+align-items: flex-start;
+align-self: stretch;
+border-radius: 30px;
+background: rgba(173, 181, 236, 0.05);
+}
+.frame-parent6 {
+  width: 30vw;
+  align-items: center;
+  gap: 15.14px;
+  
+}
+.annuler-wrapper,
+.frame-wrapper17 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+}
+.annuler-wrapper {
+  background-color: #f0f0f0;
+  align-items: center;
+  justify-content: center;
+  padding: 15.136268615722656px 0;
+}
+.frame-wrapper17 {
+  border-radius: 30.27px;
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.valider {
+  position: relative;
+  cursor: pointer;
+}
+.frame-parent12,
+.valider-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.valider-wrapper {
+  flex: 1;
+  border-radius: 45.41px;
+  background-color: var(--color-salmon);
+  height: 68.11px;
+  padding: 15.136268615722656px 0;
+  box-sizing: border-box;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.frame-parent12 {
+  width: 437.06px;
+  gap: 22.7px;
+  text-align: center;
+  font-size: 19.68px;
+  color: var(--color-gray-300);
+  font-family: var(--font-inter);
+}
+.consultation-dune-balance {
+  position: relative;
+  border-radius: 34.06px;
+background-color: white;
+  height: 90vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1rem;
+  max-width: 100%;
+  max-height: 100%;
+  width: 35vw;
+  
+
+}
+
+
+
+
+
+/* Define custom styles for the checkboxes */
+.custom-checkbox {
+width: 22.45px;
+height: 23.11px;
+border-radius: 2.433px;
+border: 0.811px solid #004AAD;
+background: #FFF;
+}
+
+/* Style the custom checkbox's label to look like a checkbox */
+.custom-checkbox + label:before {
+  content: '\2713'; /* Unicode checkmark character */
+  display: inline-block;
+  font-size: 18px;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #000;
+  text-align: center;
+  line-height: 20px;
+  margin-right: 10px;
+  background-color: #fff;
+}
+
+/* Style the custom checkbox when checked */
+.custom-checkbox:checked + label:before {
+  background-color: #007bff; /* Change to your desired color */
+  color: #fff; /* Change to your desired color */
+}
+

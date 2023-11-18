@@ -1,0 +1,58 @@
+.Screen4__mainContainer{
+  display: flex;
+
+padding: 10px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 30px;
+
+}
+
+.screen4__imageContainer{
+  width: 553px;
+height: 194px;
+flex-shrink: 0;
+margin-top: 5%;
+}
+
+
+
+
+
+.screen4__topHeading{
+  display: flex;
+}
+.screen4__topHeading>svg{
+  width: 27.646px;
+height: 28.729px;
+flex-shrink: 0;
+}
+
+.screen4__topHeading__rightSide{
+  margin-left: 20px;
+}
+
+
+
+
+
+
+/* Add this CSS for the rotating SVG */
+.rotating-svg {
+display: flex;
+align-items: center;
+justify-content: center;
+animation: rotate 5s linear infinite;
+}
+
+@keyframes rotate {
+0% {
+  transform: rotate(0deg);
+}
+100% {
+  transform: rotate(360deg);
+}
+}
+
+/* Rest of your existing CSS */

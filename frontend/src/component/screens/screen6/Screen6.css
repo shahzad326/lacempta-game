@@ -1,0 +1,132 @@
+
+.prise-de-note {
+  position: relative;
+  border-radius: 20px;
+  /* background-color: #fff; */
+  
+  height: 85vh;
+  overflow: hidden;
+  text-align: left;
+  margin-top: 0.5%; 
+}
+.prise-de-note-inner {
+  margin-top: .5%;
+  border-radius: 15px;
+  height: 55vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+ 
+  
+}
+
+.frame-item {
+  position: relative;
+  border-radius: 10px;
+  justify-content:center;
+  background-color: #f2f2f2;
+  border: 1.3px solid rgba(234, 234, 234, 0.5);
+  box-sizing: border-box;
+  width: 90vw;
+height: 55vh;
+flex-shrink: 0;
+  text-align: center;
+  margin-left: 5%;
+  margin-top: 0.5%;
+}
+
+.frame-item:active{
+  border: none;
+}
+
+.editors-primary-inline-edi {
+  margin-left: 5%;
+  border-radius: 10px;
+  background-color: #fafafa;
+  box-shadow: 0 1.4793039560317993px 4.44px rgba(0, 0, 0, 0.04),
+    0 0.7856472730636597px 2.36px rgba(0, 0, 0, 0.03),
+    0 0.3269254267215729px 0.98px rgba(0, 0, 0, 0.02);
+  border-top: 1px solid rgba(96, 108, 128, 0.1);
+  box-sizing: border-box;
+  width: 90vw;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 21.002777099609375px 31.504167556762695px;
+  gap: 52.51px;
+  ;
+  
+}
+
+.enregistrer {
+  position: relative;
+  color: #FFF;
+font-family: Inter;
+font-size: 17.884px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.Screen6__enregistrer-wrapper {
+
+  border-radius: 29.81px;
+  background-color: #fe7a72;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 18.628862380981445px 38.630001068115234px;
+  cursor: pointer;
+  font-size: 17.88px;
+  color: #fff;
+  font-family: Inter;
+  width: 20vw;
+
+}
+.prise-de-note-wrapper {
+  margin-left: 5%;
+  top: 0;
+  font-size: 20px;
+  color: #606c80;
+  
+}
+
+.rgles-du-jeu {
+ color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+
+.text {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16.25px;
+}
+.icons-misc-parts-arrow {
+  position: relative;
+  width: 10.5px;
+  height: 6.56px;
+}
+.icons-misc-parts-icons-d {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.Screen6__LastButton{
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+}

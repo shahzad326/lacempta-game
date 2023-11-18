@@ -1,0 +1,124 @@
+.classe-1-les {
+  position: relative;
+}
+.classe-1-les-comptes-de-capita-wrapper {
+  flex-direction: row;
+}
+.capital-wrapper,
+.classe-1-les-comptes-de-capita-wrapper,
+.frame-parent8 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.capital-wrapper {
+  background-color: var(--color-gray-100);
+  flex-direction: row;
+}
+.frame-parent8 {
+  flex-direction: column;
+  gap: 1.82px;
+}
+.concessions-et-droits {
+  position: relative;
+  display: inline-block;
+  width: 427.94px;
+  flex-shrink: 0;
+}
+.classe-3-les-comptes-de-stoc-parent,
+.fournisseurs-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.classe-3-les-comptes-de-stoc-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-9xs-4);
+}
+.fournisseurs-wrapper {
+  background-color: var(--color-gray-100);
+  width: 425.61px;
+  flex-direction: row;
+}
+.banques {
+  flex: 1;
+  position: relative;
+}
+.banques-wrapper {
+  background-color: var(--color-gray-100);
+  width: 424.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.achats-de-fournitures,
+.achats-non-de,
+.rmunrations-du-personnel {
+  position: relative;
+  display: inline-block;
+  width: 468.35px;
+  flex-shrink: 0;
+}
+.achats-de-fournitures,
+.rmunrations-du-personnel {
+  width: 411px;
+}
+.rmunrations-du-personnel {
+  width: 424px;
+}
+.dotations-aux-amortissements,
+.produits-des-activits,
+.valeurs-comptables-des1 {
+  position: relative;
+  display: inline-block;
+  width: 427.43px;
+  flex-shrink: 0;
+}
+.produits-des-activits,
+.valeurs-comptables-des1 {
+  width: 465.62px;
+}
+.produits-des-activits {
+  width: 446.53px;
+}
+.frame-parent7 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 20.41px;
+}
+.frame-compte,
+.frame-compte-inner,
+.frame-parent7,
+.frame-wrapper9 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper9 {
+  width: 446.53px;
+  flex-direction: column;
+}
+.frame-compte,
+.frame-compte-inner {
+  flex-direction: row;
+}
+.frame-compte {
+  position: relative;
+  border-radius: 5px;
+  background-color: var(--color-white);
+  height: 1255px;
+  overflow-y: auto;
+  flex-direction: column;
+  padding: 37.279998779296875px 29.09000015258789px;
+  box-sizing: border-box;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: 16.33px;
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}

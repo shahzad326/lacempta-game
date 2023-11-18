@@ -1,0 +1,170 @@
+.Popup-Inner__etats {
+  position: relative;
+  border-radius: 44.02px;
+  background-color: white;
+  width: 40vw;
+  height: 90vh;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+  font-size: 25.15px;
+  color: var(--color-salmon);
+  font-family: var(--font-poppins);
+}
+
+
+.Popup-Inner__Comptes-etats-group,
+.Popup-Inner__Comptes-etats-inner {
+  width: 40vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.Popup-Inner__Comptes-etats-inner {
+  display: flex;
+width: 40vw;
+padding: 15.136px 30.273px;
+gap: 17.568px;
+border-radius: 29.35px 29.35px 0px 0px;
+border-bottom: 0.757px solid rgba(126, 126, 126, 0.25);
+background: #73D896;
+}
+
+.etats2{
+    color: #FFF;
+font-family: Poppins;
+font-size: 21.191px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.etats1{
+    color: #FE7A72;
+text-align: center;
+font-family: Poppins;
+font-size: 25.155px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+.frame-parent4,
+.frame-wrapper8,
+.v3btlkprm-1-parent__Compte {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+.frame-parent4,
+.v3btlkprm-1-parent__Compte {
+  justify-content: flex-start;
+  gap: 13.54px;
+}
+.v3btlkprm-1-parent__Compte {
+  gap: 23.43px;
+  margin-top: 2%;
+  
+}
+
+.v3btlkprm-1-icon__Compte {
+  position: relative;
+  width: 149px;
+  height: 143.5px;
+  object-fit: cover;
+}
+
+.etats-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  
+}
+.frame-wrapper8 {
+  justify-content: center;
+  
+  /* color: var(--color-white); */
+
+}
+
+.group-container {
+  display: flex;
+  flex-direction: column;
+  
+  gap: 12.86px;
+}
+
+.rectangle-parent {
+  position: relative;
+  cursor: pointer;
+}
+
+.PopupSecond__Compte__group-item {
+   width: 32vw;
+  height: 10vh;
+  flex-shrink: 0;
+  border-radius: 50.571px;
+  background: #FE7A72; /* or #73D896 for the other button */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.PopupSecond__Compte__group-second-item{
+        width: 32vw;
+  height: 10vh;
+flex-shrink: 0;
+border-radius: 50.571px;
+background: #73D896;
+display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+
+.PopupSecond__Compte__group-Third-item{
+   width: 32vw;
+  height: 10vh;
+flex-shrink: 0;
+border-radius: 80.19px;
+background: #004AAD;
+display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+.compte-de-rsultat1{
+  color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+
+
+.icon-park-solidclose-one1{
+    cursor: pointer;
+}
+
+.icon-park-solidclose-one1:hover{
+    background-color: red;
+    color: red;
+    fill: red;
+}

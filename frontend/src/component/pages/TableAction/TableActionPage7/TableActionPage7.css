@@ -1,0 +1,225 @@
+.Table__topNavbar {
+  display: flex;
+height: 112px;
+padding: 0px 115px 0px 2px;
+justify-content: flex-end;
+align-items: center;
+gap: 296px;
+width: 98vw;
+flex-shrink: 0;
+align-self: stretch;
+}
+
+.Table__topHeading {
+  display: flex;
+}
+.Table__topHeading > svg {
+  width: 27.646px;
+  height: 28.729px;
+  flex-shrink: 0;
+}
+
+.Table__topHeading__rightSide {
+  margin-left: 20px;
+}
+
+.Table__top__Button > ul {
+  list-style: none;
+  display: flex;
+  padding: 14.406px;
+  align-items: flex-start;
+  gap: 5.763px;
+  margin-right: 22px;
+}
+
+.Table__top__Button__listing {
+  display: flex;
+  padding: 14.406px;
+  align-items: flex-start;
+  gap: 5.763px;
+  border-radius: 40.619px;
+  border: 1px solid #004aad;
+  background: rgba(0, 74, 173, 0.3);
+}
+
+.list__innerText {
+  color: #004aad;
+  font-family: Poppins;
+  font-size: 15.467px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.Table__MiddleNavbar__tableActionPage{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+margin-left: 3%;
+margin-top: 2%;
+}
+
+.MiddleNavbar__MidText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+
+.MiddleNavbar__LastText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+.MiddleNavbar__Arrow{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+}
+
+.MiddleNavbar__Container__TableActionPage{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+
+}
+
+.MiddleNavbar__HomeContainer__TableActionPage{
+    display: flex;
+    align-items: center;
+}
+
+.MiddleNavbar__ForwardContainer__Page{
+display: flex;
+
+padding: 10px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+
+}
+
+
+.MiddleNavbarInnerText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+
+.MiddleNavbarSecond__container{
+display: flex;
+padding: 10px;
+align-items: flex-start;
+
+gap: 10px;}
+
+
+.MiddleNavbar__InnerForwardArrow{
+    margin-top: 20px;
+}
+
+
+.TableActionPage7__CenterContainer{
+    width: 90vw;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+
+.TableActionPage7__CenterContainer__Second{
+    width: 90vw;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+.TableActionPage7__CenterContainer__Fourt{
+    width: 90vw;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+.TableAcionPage7__TopBar{
+    display: flex;
+padding: 10px 10px 10px 30px;
+align-items: center;
+gap: 10px;
+flex: 1 0 0;
+background: #004AAD;
+}
+
+.tableActionPAge7__text{
+    color: #FFF;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.TableActionPage7__InnerContaienr{
+    display: flex;   
+}
+
+
+.TableActionPage7__InnerContaienr__Second{
+    display: flex;   
+    margin-top: 0.1%;
+    
+}
+.TableActionPage7__First{
+    display: flex;
+width: 40vw;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0;
+background: rgba(173, 181, 236, 0.25);
+
+}
+
+.TableActionPage7__second{
+    width: 20vw;
+    display: flex;
+height: 44px;
+width: 15vw;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex: 1 0 0;
+background: rgba(173, 181, 236, 0.25);
+margin-left: .5%;
+}
+
+.TableActionPage7__third{
+    width: 24vw;
+    margin-left: 0.5%;
+    font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+background: rgba(173, 181, 236, 0.25);
+
+
+
+}
+
+.TableActionPage__Footer__page7{
+  margin-top: 2%;
+  margin-bottom: 5%;
+  display: flex;
+  margin-left: 2%;
+  gap: 30px;
+}

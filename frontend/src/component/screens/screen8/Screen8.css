@@ -1,0 +1,48 @@
+.main__Screen__8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 120vh; /* Set the height of the container to the viewport height for centering */
+}
+
+.top__right {
+  position: absolute;
+  top: 20px; /* Adjust the top value to control the vertical position */
+  right: 20px; /* Adjust the right value to control the horizontal position */
+}
+
+
+
+.center__image {
+width: 347px;
+height: 347px;
+border-radius: 347px;
+margin-top: 5%;
+
+}
+
+.screen8__bottom__Text{
+    width: 80vw;
+    
+}
+
+.bottom__Screen8__heading{
+    color: #FE7A72;
+text-align: center;
+font-family: Poppins;
+font-size: 36px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+.bottom__screen8__Text{
+    color: rgba(0, 0, 0, 0.50);
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}

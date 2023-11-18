@@ -1,0 +1,189 @@
+
+.Table9__MiddleNavbar__tableActionPage{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+margin-left: 3%;
+margin-top: .5%;
+}
+
+.MiddleNavbar__MidText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+
+.MiddleNavbar__LastText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+.MiddleNavbar__Arrow{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+}
+
+.MiddleNavbar__Container__TableActionPage{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+
+}
+
+.MiddleNavbar__HomeContainer__TableActionPage{
+    display: flex;
+    align-items: center;
+}
+
+.MiddleNavbar__ForwardContainer__Page{
+display: flex;
+
+padding: 10px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+
+}
+
+
+.MiddleNavbarInnerText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+
+.MiddleNavbarSecond__container{
+display: flex;
+padding: 10px;
+align-items: flex-start;
+
+gap: 10px;}
+
+
+.MiddleNavbar__InnerForwardArrow{
+    margin-top: 20px;
+}
+
+.TableActionPage__Footer__page9{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  display: flex;
+  margin-left: 2%;
+  gap: 30px;
+}
+
+
+.TableActionPage9__Container{
+  display: flex;
+  
+  gap: 2%;
+  justify-content: center;
+  margin-top: .5%;
+}
+
+.TableActionPAge9__InnerCalenderText{
+  color: #000;
+font-family: Inter;
+font-size: 18.695px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+ filter: blur(4px); /* Apply a blur effect to hidden containers */
+  opacity: 0.7; /* Reduce opacity for hidden containers */
+
+}
+
+
+
+.TableActionPAge9__InnerCalenderText__Januavary{
+  color: #000;
+font-family: Inter;
+font-size: 18.695px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.TableActionPage9__ContainerFirst{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 9.348px;
+
+}
+
+.TableAP9__TableActionPage9__Inner{
+  width: 13vw;
+height: 25vh;
+background-color: rgba(30, 63, 183, 0.15);
+border-radius: 50%;
+ 
+ 
+}
+
+
+.TableAP9__TableActionPage9__Inner__Januavary{
+  width: 13vw;
+height: 25vh;
+background-color: rgba(30, 63, 183, 0.15);
+border-radius: 50%;
+}
+
+
+
+.TableActionPage9__Calender{
+  
+text-align: center;
+align-items: center;
+}
+
+.TableAP9__InnerImage__TableActionPage9{
+  position: absolute;
+ width: 9vw;
+height: 19vh;
+margin-left: 2%;
+text-align: center;
+margin-top: 1.5%;
+filter: blur(4px); /* Apply a blur effect to hidden containers */
+  opacity: 0.7; /* Reduce opacity for hidden containers */
+}
+
+.TableAP9__InnerImage__TableActionPage9__January{
+  position: absolute;
+ width: 9vw;
+height: 19vh;
+margin-left: 2%;
+text-align: center;
+margin-top: 1.5%;
+}
+
+
+
+
+
+
+.WholeMainMonths__Container{
+  margin-bottom: 3%;
+}
+
+
+
+.TableActionPage9__ContainerHidden {
+  
+}

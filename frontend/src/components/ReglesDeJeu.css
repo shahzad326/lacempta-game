@@ -1,0 +1,117 @@
+
+.regle-du-jeu__MainContainer {
+  position: relative;
+  width: 80vw;
+  height: 90vh;
+  border-radius: 30px;
+background: #FFF;
+}
+
+
+.regle-du-jeu__Topbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.regle-du-jeu__Icon{
+    margin-top: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+    position: absolute;
+    justify-content: flex-end;
+    margin-left: 92%;
+}
+
+.regle-du-jeu__CenterImage{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    
+}
+.regle-du-jeu__Image{
+    width:147px;
+height: 147px;
+border-radius: 147px;
+
+
+}
+
+.Règles-du-Jeu__BotmText{
+    color: rgba(0, 0, 0, 0.50);
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 1%;
+}
+
+
+.Règles-du-Jeu__TextHEading{
+    color: #FE7A72;
+text-align: center;
+font-family: Poppins;
+font-size: 36px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.Règles-du-Jeu__BotmSecond{
+
+  color: rgba(0, 0, 0, 0.50);
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 1.5%;
+}
+
+.Règles-du-Jeu____Last{
+    color: rgba(0, 0, 0, 0.50);
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 6.5%; 
+}
+
+.Règles-du-Jeu__BotmThird{
+
+    color: rgba(0, 0, 0, 0.50);
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 2.5%;
+}
+
+
+.Règles-du-Jeu__CenterHeading{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 22px;
+    
+}
+
+.Règles-du-Jeu__BottomContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; /* Center vertically */
+  text-align: center; /* Center text horizontally */
+  margin-top: 12px;
+  
+}
+
+
+.regle-du-jeu__CenterContainer{
+    gap: 20px;
+    margin: 20px;
+}
+

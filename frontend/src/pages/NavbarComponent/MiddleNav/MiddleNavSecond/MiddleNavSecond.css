@@ -1,0 +1,253 @@
+.MiddleNavSecond__MainContainer{
+    width: 90vw;
+    height: 10vh;
+    margin-left: 8%;
+    margin-top: .5%;
+    margin-bottom: 0.5%;
+    display: flex;
+    
+}
+
+
+.MainContainer__frame-child {
+    
+  border-radius: 50%;
+width: 81px;
+height: 81px;
+  object-fit: cover;
+  border-radius: 61.775px;
+border: 2.746px solid #004AAD;
+}
+
+
+.MiddleNavSecond__LeftContaine{
+    display: flex;
+    text-align: center;
+    width: 45vw;
+}
+.MiddleNavSecond__TEXtContainer{
+    display: flex;
+    align-items: center;
+    margin-top: 2%;
+    margin-left: 2%;  
+}
+
+
+
+.MiddleNavSecond__Right__Cotnainer{
+    display: flex;
+    margin-top: 1%;
+    gap: 10px;
+    text-align: right;
+    margin-left: 13%;
+}
+
+
+.MiddleNavSecond__Name__OfCustomer {
+color: #1E1E1E;
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+}
+
+.MiddleNavSecond__Hello{
+  color: #1E1E1E;
+font-family: Poppins;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+}
+
+
+
+.PageDaccuel-iphone-1-icon {
+  width: 59px;
+height: 59px;
+flex-shrink: 0;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+
+.PageDaccuel-se-dconnecter-wrapper {
+display: inline-flex;
+padding: 12.629px;
+justify-content: center;
+align-items: center;
+gap: 2.452px;
+border-radius: 29.806px;
+background: #FE7A72;
+font-family: Poppins;
+width: 15   vw;
+height: 10vh;
+
+
+}
+.PageDaccuel-aide-wrapper{
+    display: inline-flex;
+padding: 18.629px;
+justify-content: center;
+align-items: center;
+gap: 7.452px;
+border-radius: 29.806px;
+background: #004AAD;
+width: 8vw;
+height: 10vh;
+}
+
+
+
+
+
+
+
+@media (max-width: 1115px) {
+
+.MiddleNavSecond__LeftContaine{
+    width: 40vw;
+}
+}
+
+
+@media (max-width: 960px) {
+
+.MiddleNavSecond__LeftContaine{
+    width: 36vw;
+}
+.MiddleNavSecond__TEXtContainer{
+    display: flex;
+    width: 300px;
+}
+
+
+.MiddleNavSecond__Name__OfCustomer {
+font-size: 18px;
+font-weight: 500;
+}
+
+.MiddleNavSecond__Hello{
+font-size: 20px;
+font-weight: 300;
+}
+
+
+
+}
+
+
+
+
+@media (max-width: 849px) {
+
+.MiddleNavSecond__LeftContaine{
+    width: 35vw;
+}
+.MiddleNavSecond__TEXtContainer{
+    display: flex;
+    width: 300px;
+}
+
+.PageDaccuel-aide-wrapper{
+padding: 8.629px;
+gap: 2.452px;
+width: 8vw;
+height: 10vh;
+}
+
+
+
+.MiddleNavSecond__Name__OfCustomer {
+font-size: 16px;
+font-weight: 500;
+}
+
+.MiddleNavSecond__Hello{
+font-size: 20px;
+font-weight: 300;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 800px) {
+
+.MiddleNavSecond__LeftContaine{
+    width: 32vw;
+}
+.MiddleNavSecond__TEXtContainer{
+    display: flex;
+    width: 300px;
+}
+
+.PageDaccuel-aide-wrapper{
+padding: 8.629px;
+gap: 2.452px;
+width: 8vw;
+height: 10vh;
+}
+
+
+
+.MiddleNavSecond__Name__OfCustomer {
+font-size: 12px;
+font-weight: 500;
+}
+
+.MiddleNavSecond__Hello{
+font-size: 14px;
+font-weight: 300;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 707px) {
+
+.MiddleNavSecond__LeftContaine{
+    width: 30vw;
+}
+.MiddleNavSecond__TEXtContainer{
+    display: flex;
+    width: 300px;
+}
+
+
+.MiddleNavSecond__Name__OfCustomer {
+font-size: 10px;
+font-weight: 500;
+}
+
+.MiddleNavSecond__Hello{
+font-size: 12px;
+font-weight: 300;
+}
+
+
+
+}

@@ -1,0 +1,484 @@
+.Table__topNavbar {
+  display: flex;
+height: 112px;
+padding: 0px 115px 0px 2px;
+justify-content: flex-end;
+align-items: center;
+gap: 296px;
+width: 98vw;
+flex-shrink: 0;
+align-self: stretch;
+}
+
+.Table__topHeading {
+  display: flex;
+}
+.Table__topHeading > svg {
+  width: 27.646px;
+  height: 28.729px;
+  flex-shrink: 0;
+}
+
+.Table__topHeading__rightSide {
+  margin-left: 20px;
+}
+
+.Table__top__Button > ul {
+  list-style: none;
+  display: flex;
+  padding: 14.406px;
+  align-items: flex-start;
+  gap: 5.763px;
+  margin-right: 22px;
+}
+
+.Table__top__Button__listing {
+  display: flex;
+  padding: 14.406px;
+  align-items: flex-start;
+  gap: 5.763px;
+  border-radius: 40.619px;
+  border: 1px solid #004aad;
+  background: rgba(0, 74, 173, 0.3);
+}
+
+.list__innerText {
+  color: #004aad;
+  font-family: Poppins;
+  font-size: 15.467px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.Table__MiddleNavbar__tableActionPage{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+margin-left: 3%;
+margin-top: 2%;
+}
+
+.MiddleNavbar__MidText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+
+.MiddleNavbar__LastText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+.MiddleNavbar__Arrow{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+}
+
+.MiddleNavbar__Container__TableActionPage{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+
+}
+
+.MiddleNavbar__HomeContainer__TableActionPage{
+    display: flex;
+    align-items: center;
+}
+
+.MiddleNavbar__ForwardContainer__Page{
+display: flex;
+
+padding: 10px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+
+}
+
+
+.MiddleNavbarInnerText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+
+.MiddleNavbarSecond__container{
+display: flex;
+padding: 10px;
+align-items: flex-start;
+
+gap: 10px;}
+
+
+.MiddleNavbar__InnerForwardArrow{
+    margin-top: 20px;
+}
+
+.ThirdNavbar{
+    display: flex;
+width: 80vw;
+align-items: flex-start;
+gap: 11.63px;
+margin-top: 2%;
+
+}
+
+.ThirdNavbar__FirstContainer{
+  display: flex;
+width: 192.229px;
+justify-content: center;
+align-items: center;
+gap: 14.833px;
+align-self: stretch;
+border-radius: 44.5px;
+border: 1.483px solid rgba(126, 126, 126, 0.25);
+margin-left: 5%;
+}
+
+.ThirdNavbar__text{
+    color: #1E1E1E;
+font-family: Poppins;
+font-size: 18.61px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.ThirdNavbar__SecondContainer{
+display: flex;
+width: 252px;
+padding: 17.446px 34.891px;
+align-items: center;
+gap: 11.63px;
+flex-shrink: 0;
+align-self: stretch;
+border-radius: 69.783px;
+border: 1.163px solid rgba(126, 126, 126, 0.25);
+}
+
+
+
+.ThirdNavbar__ThirdContainer{
+display: flex;
+padding: 17.446px 34.891px;
+justify-content: center;
+align-items: center;
+gap: 11.63px;
+align-self: stretch;
+    border-radius: 69.783px;
+border: 1.163px solid rgba(126, 126, 126, 0.25);
+}
+
+
+.ThirdNavbar__FourthContainer{
+display: flex;
+padding: 17.446px 34.891px;
+justify-content: center;
+align-items: center;
+gap: 11.63px;
+align-self: stretch;
+border-radius: 69.783px;
+border: 1.163px solid rgba(126, 126, 126, 0.25);
+}
+
+
+
+
+
+
+
+.TableActionPage3__ButtonContainer{
+    text-align: center;
+    margin-top: 15%;
+}
+
+
+
+.TableActionPage3__InnerContainer{
+  margin-top: 10%;
+
+}
+
+.TableInnerPage3__text{
+color: #FA1D1D;
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+
+
+.TableActionPage__Footer{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  display: flex;
+  margin-left: 2%;
+  gap: 30px;
+}
+
+.table__InnerDeleteIcon{
+  cursor: pointer;
+}
+
+.TableActionPage3__ButtonContainer{
+  margin-left: 5%;
+  margin-top: 2%;
+
+}
+
+.TableActionPage3__ButtonInnerContainer{
+  display: flex;
+padding: 15px 30px;
+align-items: center;
+gap: 10px;
+align-self: stretch;
+border-radius: 60px;
+border: 1px solid rgba(126, 126, 126, 0.25);
+background: #48B7D6;
+width: 265px;
+}
+
+
+.TableActionPage3__ButtonContainer__Text{
+  color: #FFF;
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+
+.Rechercheuneécriture__AllTableHeading__Page4{
+  display: flex;
+align-items: center;
+align-self: stretch;
+background: #004AAD;
+margin-left: 5%;
+width:90vw;
+margin-top: 2%;
+border-radius: 12px 12px 0 0 ;
+justify-content: space-around;
+}
+
+.Rechercheuneécriture__tableHeading{
+  
+  display: flex;
+height: 26px;
+padding: 20px 0px;
+align-items: center;
+gap: 10px;
+background: rgba(0, 74, 173, 0.30);
+
+}
+
+
+.Rechercheuneécriture__tableHeading__Page4{
+  display: flex;
+height: 26px;
+align-items: center;
+padding: 20px 0 20px 0;
+gap: 10px;
+background: rgba(0, 74, 173, 0.30);
+margin-left: 24px;
+}
+
+
+.Rechercheuneécriture__tableHeading__Page4__Heading1{
+  display: flex;
+height: 26px;
+align-items: center;
+padding: 20px 0 20px 0;
+gap: 10px;
+background: rgba(0, 74, 173, 0.30);
+margin-left: 24px;
+}
+
+
+.Rechercheuneécriture__tableHeading__Page4__Heading2{
+  display: flex;
+height: 26px;
+align-items: center;
+padding: 20px 0 20px 0;
+gap: 10px;
+background: rgba(0, 74, 173, 0.30);
+margin-left: 24px;
+}
+
+.Rechercheuneécriture__tableHeading__Page4__Heading3{
+  display: flex;
+height: 26px;
+align-items: center;
+padding: 20px 0 20px 0;
+gap: 10px;
+background: rgba(0, 74, 173, 0.30);
+margin-left: 24px;
+}
+
+.Rechercheuneécriture__tableHeading__Page4__Heading4{
+  display: flex;
+height: 26px;
+align-items: center;
+padding: 20px 0 20px 0;
+gap: 10px;
+background: rgba(0, 74, 173, 0.30);
+margin-left: 24px;
+}
+
+.Rechercheuneécriture__tableHeading__Page4__Heading5{
+  display: flex;
+height: 26px;
+align-items: center;
+padding: 20px 0 20px 0;
+gap: 10px;
+background: rgba(0, 74, 173, 0.30);
+margin-left: 24px;
+}
+
+.Rechercheuneécriture__tableHeading__Page4__Heading6{
+  display: flex;
+height: 26px;
+align-items: center;
+padding: 20px 0 20px 0;
+gap: 10px;
+background: rgba(0, 74, 173, 0.30);
+margin-left: 24px;
+}
+
+
+.Rechercheuneécriture__tableHeading__Page4__Heading7{
+  display: flex;
+height: 26px;
+align-items: center;
+padding: 20px 0 20px 0;
+gap: 10px;
+background: rgba(0, 74, 173, 0.30);
+margin-left: 24px;
+}
+
+
+.Rechercheuneécriture__tableHeadingText{
+  color: #FFF;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.Rechercheuneécriture__tableHeadingText__Second{
+  margin-left: 55px;
+  color: #FFF;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.Rechercheuneécriture__AllTableHeadingInner{
+  display: flex;
+  margin-left: 5%;
+align-items: center;
+align-self: stretch;
+width: 90vw;
+margin-top: .5%;
+
+}
+
+
+.Rechercheuneécriture__tableHeading__Inner__TableActionPage4{
+  display: flex;
+height: 56px;
+width: 90vw;
+align-items: center;
+gap: 10px;
+background: rgba(239, 241, 255, 0.50);
+
+}
+
+.TableActionPage3__innerTextPage4{
+  
+  color: #7E7E7E;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.TableActionPage3__innerText__second{
+ margin-left: 30px;
+  color: #7E7E7E;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.Rechercheuneécriture__tableHeading__Second{
+  display: flex;
+height: 56px;
+width: 67vw;
+align-items: center;
+gap: 10px;
+background: rgba(239, 241, 255, 0.50);
+}
+
+
+
+
+.Rechercheuneécriture__lastButton{
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.Rechercheuneécriture__lastButton__container{
+display: flex;
+width: 288px;
+height: 40px;
+padding: 11.948px 32.76px;
+align-items: center;
+gap: 8.534px;
+flex-shrink: 0;
+border-radius: 25.603px;
+background: #004AAD;
+margin-right: 5%;
+}
+
+
+.Rechercheuneécriture__lastButton__text{
+  color: #fff;
+font-family: Poppins;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+

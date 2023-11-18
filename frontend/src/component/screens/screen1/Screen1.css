@@ -1,0 +1,102 @@
+.main__whole__login__container {
+    align-items: center;
+    background-color: #004aad;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .Screen1__mainContainer {
+    width: 90vw;
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 30px;
+    background: #FFF;
+    position: relative;
+  }
+  
+  .cross__icon {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    width: 10px;
+    height: 10px;
+    flex-shrink: 0;
+
+  }
+  
+  .screen1__upperContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .screen1__image__container {
+    margin-top: 20px;
+    text-align: center;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background-color: #004aad;
+    position: relative;
+  }
+  
+  .screen1__inner__image {
+    font-size: 23px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+  }
+
+  
+  .screen1__innerContainer{
+    text-align: center;
+    justify-content: center;
+  }
+
+  .screen1__innerContainer>p{
+    color: #000;
+font-family: Poppins;
+font-size: 14.022px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+  }
+
+  .screen1__innerContainer__heading{
+    color: #FE7A72;
+  }
+
+  .screen1__innerContainer__button {
+    display: inline-flex;
+    margin-top: 30px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 60px;
+    background: linear-gradient(85deg, #FE7A72 -18.69%, #FF4D42 211.2%);
+  }
+  
+  .screen1__innerContainer__button > button {
+    outline: none;
+    border: none;
+    text-decoration: none;
+  }
+  
+  .inner__button__text {
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+  

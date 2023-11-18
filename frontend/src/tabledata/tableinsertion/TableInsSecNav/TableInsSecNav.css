@@ -1,0 +1,133 @@
+
+.SecondNav__ThirdNavbar{
+    display: flex;
+width: 90vw;
+align-items: flex-start;
+gap: 1%;
+height: 5vh;
+margin-top: .5%;
+margin-left: 8%;
+
+
+}
+
+.TableIns__MidleNav__firstContainer{
+display: flex;
+  width: 10vw;
+  height: 5vh; /* Set a fixed height for the container */
+  padding: 17.446px 15.891px;
+  align-items: center;
+  gap: 0.2%;
+  flex-shrink: 0;
+  align-self: stretch;
+  border-radius: 69.783px;
+  border: 1.163px solid rgba(126, 126, 126, 0.25);
+  overflow: hidden; /* Hide overflowing content */
+  white-space: nowrap; /* Prevent text from wrapping */
+}
+.TableIns__MidleNav__SecondContainer{
+display: flex;
+ width: 9vw;
+  height: 5vh; /* Set a fixed height for the container */
+  padding: 17.446px 12.891px;
+  align-items: center;
+  gap: 0.2%;
+  flex-shrink: 0;
+  align-self: stretch;
+  border-radius: 69.783px;
+  border: 1.163px solid rgba(126, 126, 126, 0.25);
+  overflow: hidden; /* Hide overflowing content */
+  white-space: nowrap; /* Prevent text from wrapping */
+}
+
+.TableIns__MidleNav__ThirdContainer{
+display: flex;
+  width: 7vw;
+  height: 5vh; /* Set a fixed height for the container */
+  padding: 17.446px 12.891px;
+  align-items: center;
+  gap: 0.2%;
+  flex-shrink: 0;
+  align-self: stretch;
+  border-radius: 69.783px;
+  border: 1.163px solid rgba(126, 126, 126, 0.25);
+  overflow: hidden; /* Hide overflowing content */
+  white-space: nowrap; /* Prevent text from wrapping */
+}
+
+.TableIns__MidleNav__FourthContainer{
+display: flex;
+ width: 10vw;
+  height: 5vh; /* Set a fixed height for the container */
+  padding: 17.446px 12.891px;
+  align-items: center;
+  gap: 0.2%;
+  flex-shrink: 0;
+  align-self: stretch;
+  border-radius: 69.783px;
+  border: 1.163px solid rgba(126, 126, 126, 0.25);
+  overflow: hidden; /* Hide overflowing content */
+  white-space: nowrap; /* Prevent text from wrapping */
+}
+.TableIns__MidleNav__FifthContainer{
+display: flex;
+ width: 11vw;
+  height: 5vh; /* Set a fixed height for the container */
+  padding: 17.446px 22.891px;
+  align-items: center;
+  gap: 0.2%;
+  flex-shrink: 0;
+  align-self: stretch;
+  border-radius: 69.783px;
+  border: 1.163px solid rgba(126, 126, 126, 0.25);
+  overflow: hidden; /* Hide overflowing content */
+  white-space: nowrap; /* Prevent text from wrapping */
+}
+.TableIns__MidleNav__SixthContainer{
+display: flex;
+ width: 13vw;
+  height: 5vh; /* Set a fixed height for the container */
+  padding: 17.446px 28.891px;
+  align-items: center;
+  gap: 0.2%;
+  flex-shrink: 0;
+  align-self: stretch;
+  border-radius: 69.783px;
+  border: 1.163px solid rgba(126, 126, 126, 0.25);
+  overflow: hidden; /* Hide overflowing content */
+  white-space: nowrap; /* Prevent text from wrapping */
+}
+.TableIns__MidleNav__SevenContainer{
+display: flex;
+ width: 11vw;
+  height: 5vh; /* Set a fixed height for the container */
+  padding: 17.446px 22.891px;
+  align-items: center;
+  gap: 0.2%;
+  flex-shrink: 0;
+  align-self: stretch;
+  border-radius: 69.783px;
+  border: 1.163px solid rgba(126, 126, 126, 0.25);
+  overflow: hidden; /* Hide overflowing content */
+  white-space: nowrap; /* Prevent text from wrapping */
+}
+
+.TableIns__MidleNav__EightContainer{
+display: flex;
+ width: 11vw;
+  height: 5vh; /* Set a fixed height for the container */
+  padding: 17.446px 22.891px;
+  align-items: center;
+  gap: 0.2%;
+  flex-shrink: 0;
+  align-self: stretch;
+}
+.TableIns__MidNav__text{
+    color: #000;
+text-align: center;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;    
+}

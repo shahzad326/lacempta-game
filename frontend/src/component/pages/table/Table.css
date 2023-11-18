@@ -1,0 +1,236 @@
+.WholeMainTable__Container{
+  height: 100vh;
+}
+
+.TableHeadings__Main{
+  display: flex;
+  width: 90vw;
+  align-items: flex-start;
+  gap: 45px;
+  margin-left: 5%;
+  
+  background: #004AAD;
+}
+
+.TableHeadings__Main__firstHeading{
+    display: flex;
+width: 140px;
+height: 26px;
+padding: 20px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0;
+}
+
+
+
+
+.TableHeadings__Main__ThirdHeading{
+    display: flex;
+width: 270px;
+height: 26px;
+padding: 20px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0;
+}
+
+
+.Table__main__td{
+width: 240px;
+height: 26px;
+padding: 20px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0;
+background-color: red;
+}
+
+.Table__main__td__third{
+width: 370px;
+background-color: rebeccapurple;
+height: 26px;
+padding: 20px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0;
+}
+
+.TableHeadings__Main__text{
+    color: #FFF;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+
+
+.whole__Table__container{
+  height: 49vh;
+}
+
+
+/* YourTableStyles.css */
+.Table__custom-table {
+  width: 82vw;
+  border-collapse: collapse;
+  margin-left: 8%;
+  margin-top: 1.5%;
+  
+}
+
+.Table__table-heading {
+  background-color: #004AAD;
+  color: #fff;
+align-items: flex-start;
+gap: 45px;
+border-radius: 20%;  
+}
+
+.Table__table-heading th {
+height: 2vh;
+padding: 1%;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+
+  
+}
+
+.table-heading__Text{
+color: #FFF;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-align: center;
+justify-content: center;
+}
+.Table__custom-table tbody td {
+  width: 20vw;
+  height: .1vh;
+padding: .5%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+background: rgba(239, 241, 255, 0.20);
+margin: 22px;
+}
+
+
+.Table__custom-table tbody td input {
+  
+
+padding: 3.5%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+background: rgba(239, 241, 255, 0.20);
+}
+
+
+
+
+.table__InnerText{
+  color: rgba(0, 0, 0, 0.40);
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+
+.bottom__three__button{
+  margin-left: 50%;
+  display: flex;
+  margin-top: 1%;
+
+  
+}
+
+.bottom__button__one{
+  display: flex;
+width: 12vw;
+height:8vh;
+padding: 2%;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0;
+border-radius: 70px;
+background: rgba(97, 115, 251, 0.15);
+margin-left: 2%;
+}
+
+.bottom__button__third{
+display: flex;
+padding: 2%;
+justify-content: center;
+align-items: flex-start;
+align-self: stretch;
+border-radius: 45px;
+background: #FE7A72;
+margin-left: 2%;
+width: 15vw;
+height: 10vh;
+
+}
+
+
+.bottom__button__text{
+  color: #004AAD;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+.bottom__button__text__three{
+  color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.MainTable__TablefooterNavbar{
+  display: flex;
+  margin-left: 2%;
+  gap: 2%;
+}
+
+.table__InnerDeleteIcon{
+  cursor: pointer;
+  margin-left: 45%;
+  
+}
+
+.Table__custom-table tbody tr {
+
+  margin-top: 20px;
+}
+.Image__Delete__Icon{
+  background-color: rgba(0, 0, 0, 0.40);
+}
+
+.Table__Td__Main__Text{
+  color: rgba(0, 0, 0, 0.40);
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}

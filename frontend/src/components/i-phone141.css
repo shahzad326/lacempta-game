@@ -1,0 +1,164 @@
+.PhoneContainer-iphone-14-1-child,
+.PhoneContainer-iphone-14-1-item {
+  position: absolute;
+  border-radius: var(--br-41xl);
+}
+.PhoneContainer-iphone-14-1-child {
+  top: 24px;
+  left: 20px;
+  background: linear-gradient(
+    180deg,
+    rgba(67, 114, 185, 0.38) 23.96%,
+    rgba(25, 176, 240, 0.5) 68.54%,
+    rgba(229, 233, 248, 0)
+  );
+  width: 350px;
+  height: 803px;
+}
+.PhoneContainer-iphone-14-1-item {
+  top: 31px;
+  left: 145px;
+  background-color: red;
+  width: 100px;
+  height: 33px;
+}
+.PhoneContainer-iphone-14-1-inner {
+  position: absolute;
+  top: 706px;
+  left: 38px;
+  border-radius: 50px;
+  background-color: rgba(217, 217, 217, 0.33);
+  width: 315px;
+  height: 92px;
+}
+.PhoneContainer-image-37-icon {
+  position: absolute;
+  top: 715px;
+  left: 72px;
+  width: 73px;
+  height: 73px;
+  object-fit: cover;
+}
+.PhoneContainer-group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  width: 234px;
+  height: 43px;
+}
+.PhoneContainer-retour-au-menu {
+  position: absolute;
+  top: 10px;
+  left: 37px;
+}
+.PhoneContainer-group-div,
+.PhoneContainer-vector-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 234px;
+  height: 43px;
+}
+.PhoneContainer-group-div {
+  top: 26px;
+  left: 78px;
+  cursor: pointer;
+}
+.PhoneContainer-vector-icon {
+  position: absolute;
+  height: 0.12%;
+  width: 0.26%;
+  top: 28.55%;
+  right: 52.56%;
+  bottom: 71.33%;
+  left: 47.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.PhoneContainer-application-icon,
+.PhoneContainer-game-icon {
+  position: absolute;
+  top: 715px;
+  left: 159px;
+  width: 73px;
+  height: 73px;
+  object-fit: cover;
+}
+.PhoneContainer-game-icon {
+  left: 246px;
+}
+.PhoneContainer-book-icon,
+.PhoneContainer-business-1-icon,
+.PhoneContainer-money-bag-1-icon,
+.PhoneContainer-option-icon,
+.PhoneContainer-seo-icon,
+.PhoneContainer-target-icon {
+  position: absolute;
+  top: 99px;
+  left: 148px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.PhoneContainer-book-icon,
+.PhoneContainer-business-1-icon,
+.PhoneContainer-option-icon,
+.PhoneContainer-seo-icon,
+.PhoneContainer-target-icon {
+  left: 265px;
+}
+.PhoneContainer-book-icon,
+.PhoneContainer-option-icon,
+.PhoneContainer-seo-icon,
+.PhoneContainer-target-icon {
+  top: 219px;
+  left: 148px;
+}
+.PhoneContainer-book-icon,
+.PhoneContainer-seo-icon,
+.PhoneContainer-target-icon {
+  left: 265px;
+}
+.PhoneContainer-book-icon,
+.PhoneContainer-seo-icon {
+  top: 335px;
+}
+.PhoneContainer-book-icon {
+  top: 443px;
+  left: 45px;
+}
+.PhoneContainer-calculator-1-icon,
+.PhoneContainer-data-analyst-icon,
+.PhoneContainer-increase-icon,
+.PhoneContainer-marketing-icon {
+  position: absolute;
+  top: 99px;
+  left: 45px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.PhoneContainer-data-analyst-icon,
+.PhoneContainer-increase-icon,
+.PhoneContainer-marketing-icon {
+  top: 219px;
+}
+.PhoneContainer-increase-icon,
+.PhoneContainer-marketing-icon {
+  top: 335px;
+}
+.PhoneContainer-marketing-icon {
+  left: 148px;
+}
+.PhoneContainer-iphone-14-1 {
+  position: relative;
+  
+  border-radius: 60px;
+background: linear-gradient(180deg, rgba(67, 114, 185, 0.38) 23.96%, rgba(25, 176, 240, 0.50) 68.54%, rgba(229, 233, 248, 0.00) 100%);
+  width: 390px;
+  height: 944px;
+  
+  
+}

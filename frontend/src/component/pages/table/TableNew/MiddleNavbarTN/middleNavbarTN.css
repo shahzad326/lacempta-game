@@ -1,0 +1,47 @@
+
+.Main-Table__MiddleNavbarTable__Container{
+display: flex;
+gap: 11.63px;
+align-items: center;
+margin-left: 8%;
+height: 6vh;
+border-radius: 69.783px;
+
+width: 40vw;
+margin-top: 0.2%;
+}
+
+.Main-MiddleNavbar__Arrow{
+display: flex;
+padding: 0px 1.5%;
+align-items: center;
+}
+
+.MiddleNavbar__Container{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+}
+
+.Table-MiddleNavbar__ForwardContainer{
+    width: 24px;
+height: 24px;
+}
+
+
+.MiddleNavbarInnerText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+
+.MiddleNavbarSecond__container{
+display: flex;
+align-items: flex-start;
+
+}

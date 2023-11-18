@@ -1,0 +1,79 @@
+
+.Table9__MiddleNavbar__tableActionPage{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+margin-left: 3%;
+margin-top: .5%;
+}
+
+.MiddleNavbar__MidText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+
+.MiddleNavbar__LastText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+.MiddleNavbar__Arrow{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+}
+
+.MiddleNavbar__Container__TableActionPage{
+display: flex;
+padding: 0px 10px;
+align-items: center;
+
+}
+
+.MiddleNavbar__HomeContainer__TableActionPage{
+    display: flex;
+    align-items: center;
+}
+
+.MiddleNavbar__ForwardContainer__Page{
+display: flex;
+
+padding: 10px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+
+}
+
+
+.MiddleNavbarInnerText{
+    color: #606C80;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+
+.MiddleNavbarSecond__container{
+display: flex;
+padding: 10px;
+align-items: flex-start;
+
+gap: 10px;}
+
+
+.MiddleNavbar__InnerForwardArrow{
+    margin-top: 20px;
+}

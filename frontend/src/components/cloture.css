@@ -1,0 +1,87 @@
+.PopupInner__cloture-etats{
+    position: relative;
+  border-radius: 44.02px;
+  background-color: white;
+  width: 40vw;
+  height: 90vh;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+  
+}
+
+.Cloture__v3btlkprm-1-icon__Cloture {
+  position: relative;
+  width: 159px;
+  height: 153.5px;
+  object-fit: cover;
+  margin-top: 5%; 
+}
+
+.InnerPopUp-Saise__etats-group,
+.InnerPopUp-Saise__saisie-inner {
+  width: 36vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.InnerPopUp-Saise__saisie-inner {
+  display: flex;
+width: 40vw;
+padding: 15.136px 30.273px;
+gap: 17.568px;
+border-radius: 29.35px 29.35px 0px 0px;
+border-bottom: 0.757px solid rgba(126, 126, 126, 0.25);
+background: #004AAD;
+
+}
+
+
+
+
+.Cloture__frame-wrapper8
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+
+.group-Third-item{
+    width: 32vw;
+  height: 10vh;
+flex-shrink: 0;
+border-radius: 80.19px;
+background: #004AAD;
+display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+
+.frame-parent4,
+.frame-wrapper8,
+.v3btlkprm-1-parent__Cloture {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+.frame-parent4,
+.v3btlkprm-1-parent__Cloture {
+  justify-content: flex-start;
+  gap: 13.54px;
+}
+.v3btlkprm-1-parent__Cloture {
+  gap: 23.43px;
+  
+  
+}

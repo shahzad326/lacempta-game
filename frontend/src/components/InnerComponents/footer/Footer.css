@@ -1,0 +1,15 @@
+.Footer__PageDoccuel-bottomContainermain{
+    display: flex;
+    margin-left: 2%;
+    gap: 1%;
+}
+
+.Footer__pageDoccuel-information-1-parent{
+margin: .2%;
+}
+
+.Footer__pageDoccuel-information-1-icon{
+    height: 6vh;
+    width: 3vw;
+    cursor: pointer;
+}

@@ -1,0 +1,97 @@
+
+.SecondNav__ThirdNavbar{
+    display: flex;
+width: 50vw;
+align-items: flex-start;
+gap: 1%;
+height: 5vh;
+margin-top: .5%;
+margin-left: 8%;
+
+
+}
+
+.SecondNav__ThirdNavbar__FirstContainer{
+display: flex;
+  width: 10vw;
+  height: 5vh; /* Set a fixed height for the container */
+  padding: 17.446px 34.891px;
+  align-items: center;
+  gap: 0.2%;
+  flex-shrink: 0;
+  align-self: stretch;
+  border-radius: 69.783px;
+  border: 1.163px solid rgba(126, 126, 126, 0.25);
+  overflow: hidden; /* Hide overflowing content */
+  white-space: nowrap; /* Prevent text from wrapping */
+
+}
+
+.ThirdNavbar__text{
+    color: #1E1E1E;
+font-family: Poppins;
+font-size: 18.61px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.SecondNav__ThirdNavbar__SecondContainer {
+  display: flex;
+  width: 18vw;
+  height: 5vh; /* Set a fixed height for the container */
+  padding: 17.446px 34.891px;
+  align-items: center;
+  gap: 0.2%;
+  flex-shrink: 0;
+  align-self: stretch;
+  border-radius: 69.783px;
+  border: 1.163px solid rgba(126, 126, 126, 0.25);
+  overflow: hidden; /* Hide overflowing content */
+  white-space: nowrap; /* Prevent text from wrapping */
+}
+
+.scrollable-content {
+  white-space: nowrap; /* Prevent text from wrapping */
+  overflow: auto; /* Enable horizontal scrollbar when content overflows */
+  width: 100%; /* Take the full width of the container */
+  height: 100%; /* Take the full height of the container */
+}
+
+.ThirdNavbar__ThirdContainer{
+display: flex;
+padding: 17.446px 34.891px;
+justify-content: center;
+align-items: center;
+gap: 11.63px;
+align-self: stretch;
+    border-radius: 69.783px;
+border: 1.163px solid rgba(126, 126, 126, 0.25);
+height: 1vh;
+width: 16vw;
+}
+
+
+.ThirdNavbar__FourthContainer{
+display: flex;
+padding: 17.446px 34.891px;
+justify-content: center;
+align-items: center;
+gap: 11.63px;
+align-self: stretch;
+border-radius: 69.783px;
+border: 1.163px solid rgba(126, 126, 126, 0.25);
+height: 1vh;
+width: 15vw;
+}
+.editable-text {
+  padding: 0;  /* Remove padding */
+  margin: 0;  /* Remove margin */
+  border: none;  /* Remove border */
+  outline: none;  /* Remove outline */
+  background: transparent;  /* Make background transparent */
+  cursor: text;  /* Set cursor to text when hovering */
+  width: 16vw;
+
+}
